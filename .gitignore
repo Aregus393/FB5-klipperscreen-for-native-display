@@ -1,0 +1,9 @@
+# Created on the Pi by install.sh and the scripts
+/fb5.conf
+/touch-cal.json
+/logs/
+/state/
+/firmware/
+/katapult/
+__pycache__/
+*.pyc
